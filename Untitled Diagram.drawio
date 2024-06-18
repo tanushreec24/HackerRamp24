@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2024-06-18T21:43:44.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rIQeg0fnrHwVgzVrzCkT" version="24.5.5" type="github">
+  <diagram name="Page-1" id="-ui-QAim6fyY7M7sBr0Q">
+    <mxGraphModel dx="1073" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="85" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-3" target="ogR-r2jwO0IqgtqNtLVk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-3" value="User Data Collection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-4" value="Collect User Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="23" y="47" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-5" target="ogR-r2jwO0IqgtqNtLVk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-5" value="Image Analysis and Computer Vision" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-7" value="Analyze image using CV algos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="174" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-9" target="ogR-r2jwO0IqgtqNtLVk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-9" value="Recommendation Systems" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="180" width="110" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-10" value="Provide personalized fashion recommendations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-12" target="ogR-r2jwO0IqgtqNtLVk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-12" value="Machine Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-13" value="Utilize machine learning algos for personalization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="301" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-14" target="ogR-r2jwO0IqgtqNtLVk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="346" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-15" target="ogR-r2jwO0IqgtqNtLVk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-15" value="Styling Rules and Knowledge Base" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="346" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-16" value="Integrate knowledge base with AI assistant for context aware recommendations&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="104" y="396" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-22" target="ogR-r2jwO0IqgtqNtLVk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-22" value="User Interface and Interaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-24" value="Design them with the AI assistant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="501" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-25" target="ogR-r2jwO0IqgtqNtLVk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-25" value="Integration with Social Media and E-Commerce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-26" value="Connect AI assistant with social media" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="602" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-28" target="ogR-r2jwO0IqgtqNtLVk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-28" value="Scalability and performance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="642" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-29" value="Continuous improvement and feedback loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogR-r2jwO0IqgtqNtLVk-30" target="ogR-r2jwO0IqgtqNtLVk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-30" value="User queries, feedback and descriptions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="81" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-31" value="Process user queries using NLP techniques" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogR-r2jwO0IqgtqNtLVk-42" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#e1d5e7;strokeColor=#9673a6;glass=1;" vertex="1" parent="1">
+          <mxGeometry width="390" height="810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
